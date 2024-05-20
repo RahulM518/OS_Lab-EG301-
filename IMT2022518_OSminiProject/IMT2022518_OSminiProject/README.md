@@ -6,7 +6,6 @@ sudo apt install make
 ```
 - Create necessary datafiles and compile the src files.
 ```bash
-cd osminiproject
 make all
 ```
 - Change directory to /bin.
